@@ -7,7 +7,7 @@ body {
   }
   
   header {
-    background-color: #4caf50;
+    background-color: #10d0ea;
     color: white;
     padding: 10px;
     text-align: center;
@@ -50,7 +50,7 @@ body {
     max-width: 600px;
     display: block;
     margin: 10px auto;
-    border: 5px solid #4caf50;
+    border: 5px solid #10d0ea;
     border-radius: 10px;
   }
   
